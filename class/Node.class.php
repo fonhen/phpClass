@@ -3,7 +3,7 @@ class Node {
     protected $conf = [
         'id' => 'id',                // 唯一标识
         'level' => 'level',          // 父节点
-        'attr' => 'attr',            // 深度
+        'attr' => 'attr',            // 属性
         'children' => 'children'     // tree 子节点
     ];
     
